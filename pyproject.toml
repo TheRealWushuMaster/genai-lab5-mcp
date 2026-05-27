@@ -1,0 +1,13 @@
+[project]
+name = "genai-lab5-mcp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "anyio>=4.13.0",
+    "fastmcp>=3.3.1",
+    "httpx>=0.28.1",
+    "mcp>=1.27.1",
+    "openai>=2.38.0",
+]
